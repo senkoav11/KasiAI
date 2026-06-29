@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>500628703275-8ecdvi1ghhp0po14i235io5jasjscsd6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.500628703275-8ecdvi1ghhp0po14i235io5jasjscsd6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9RYDouMBa0uX6HjqTSSC9eTWO8HaH88M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>500628703275</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sen.kasiai</string>
+	<key>PROJECT_ID</key>
+	<string>kasiai-33c68</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kasiai-33c68.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:500628703275:ios:3082207632b96138a9826e</string>
+</dict>
+</plist>

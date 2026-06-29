@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "500628703275",
+    "project_id": "kasiai-33c68",
+    "storage_bucket": "kasiai-33c68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500628703275:android:7b5695d6ae6a50e2a9826e",
+        "android_client_info": {
+          "package_name": "com.sen.kasiai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500628703275-eabd5gvgu67duhr8ja95a50j5stsd3a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sen.kasiai",
+            "certificate_hash": "d2a7b7042c925c8972fd4408d6c6e5fb7e59472b"
+          }
+        },
+        {
+          "client_id": "500628703275-ti591019uqbud4dhenvh5hd8mrrcuq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAO_ifEWvoal2y4nO6HfecCxUDm90uw5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500628703275-ti591019uqbud4dhenvh5hd8mrrcuq0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "500628703275-8ecdvi1ghhp0po14i235io5jasjscsd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sen.kasiai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
